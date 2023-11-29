@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&display=swap');
+
+header {
+  font-family: 'Hedvig Letters Sans', sans-serif;
+  display: flex;
+  align-items: center;
+  background-color: #f1f0f0;
+}
+
+header > img {
+  width: 90px;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+main {
+  font-family: 'Hedvig Letters Sans', sans-serif;
+  background-color: #faf9f9;
+  padding: 10px;
+}
+
+.Image_container > img {
+  width: 70px;
+  border-radius: 40%;
+  padding: 10px;
+}
+
+footer {
+  background-color: #f1f0f0;
+  padding: 10px;
+}
